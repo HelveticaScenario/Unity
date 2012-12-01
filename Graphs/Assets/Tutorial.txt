@@ -1,0 +1,7 @@
+This tutorial can be found at
+
+http://catlikecoding.com/unity/tutorials/graphs/
+
+This is an updated version of the original Graphs tutorial. It uses Unity's Shuriken particle system, introduced in Unity 3.5.
+
+Copyright 2012 Catlike Coding
